@@ -6,7 +6,7 @@ using namespace std;
 
 
 template<class T>
-class Stack
+class Stack ryuhadjadast98
 {
 public:
 
